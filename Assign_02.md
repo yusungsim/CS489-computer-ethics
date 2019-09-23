@@ -1,65 +1,47 @@
-CS489 Assignment#02 - Penal Labour
+Assignment #02. Penal Labor
 ===
 
+Fall 2019, CS489
 20160347 Yusung sim
-
-Outline
-
-- Ethical issues on Penal Labour
-  - Unnecessary punishment?
-    - social cost of prison
-  - Slavery?
-    - historic examples
-    - modern exmaple
-  - Rehabilitation
-    - historic examples
-    - statistical exmaples
-- Dataset categorizing as penal labour
-  - dataset work
-    - zero-learning curve
-    - needed work for various backgrounds
-  - slavery : no
-    - compulsory
-    - better work for inmates
-  - social cost : good
-  - rehabilitation
 
 Inmates in Finland are training AI as part of prison labor
 ---
 
-The article was about partnership between an AI company and Finnish Criminal Sanctions Agency, utilizing penal labor to tag local data which is used to train AI products. They arleady processed quite a lot of data, comparable to amount that average startup would required. Currently, the labor is only being held in two prisons, while the compnay seeks to expand their partnership.
+[The article](https://www.theverge.com/2019/3/28/18285572/prison-labor-finland-artificial-intelligence-data-tagging-vainu) was about partnership between an AI company and Finnish Criminal Sanctions Agency, utilizing penal labor to tag local data which is used to train AI products. They aLReady processed quite a lot of data, comparable to amount that average startup would require. Currently, the labor is only being held in two prisons, while the company seeks to expand their partnership.
 
 The partnership between tech company and prison is unimaginable in Korea. Prison is considered as closed and inflexible place, because prison imates are considered highly dangerous and difficult to control. Also, considering that the word 'labor' is pretty biased in Korea, assigning such technological duty to prison inmates will raise severe controversy. I was also surprised when I read the article, getting know that the work in dataset is already done by significant amount. In personal opinion, this is a strong proof that legal system and culture interact directly.
 
 In order to discuss about moral justifiability of the case, I must mention that the idea of penal labour raises importand moral issues. In addition, the work charateristic of classifying AI training data should be considered. So I'd like to consider both issues before I make my opinion.
 
-Penal Labour
+Penal Labor
 ---
 
-Penal labor is a type of forced labor as a penalty for criminals, and usually applied to prison inmates. Because of their similar nature, penal labor has been often compared and discussed together with slavery. In French African colonices, penal labors were used as mean of colony exploitation [until 1950s](lemonde.fr/idees/article/2019/04/10/le-travail-force-colonial-dans-l-empire-francais-doit-etre-reconnu-comme-un-crime-contre-l-humanite_5448136_3232.html). In the United States, [The 13th Amendment](https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution) explicitly mentions that penal labor is not slavery, but is punishment for a crime. For a nation that is deeply related with abolition of slavery and civil rights movement, it is natural for legislators to precisly limit the range of penal labor to protect inmates' human rights. The fact that products of the penal labor is only used for government needs shows that US government reduces the likelihood of exploiting inmates for taking economic advantage.
+Penal labor is a type of forced labor as a penalty for criminals, and usually applied to prison inmates. Because of their similar nature, penal labor has been often compared and discussed together with slavery. In French African colonies, penal labors were used as mean of colony exploitation [until 1950s](lemonde.fr/idees/article/2019/04/10/le-travail-force-colonial-dans-l-empire-francais-doit-etre-reconnu-comme-un-crime-contre-l-humanite_5448136_3232.html). In the United States, [the 13th Amendment](https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution) explicitly mentions that penal labor is not slavery, but punishment for a crime. For a nation that is deeply related with abolition of slavery and civil rights movement, it is natural for legislators to precisly limit the range of penal labor to protect inmates' human rights. The fact that products of the penal labor is only used for government needs shows that US government reduces the likelihood of exploiting inmates for taking economic advantage.
 
-Penal labor should also be treates as a kind of labor. As a form of labor that produces economical or social benefits, penal labor can effectively pay for the economic and social costs of prison. 
+Penal labor should also be treated as a kind of labor. As a form of labor that produces economical or social benefits, penal labor can pay for the social cost of prison. [In 2012 report by Vera institute of justice](https://www.vera.org/publications/price-of-prisons-what-incarceration-costs-taxpayers), the average cost per inmate was \$31,286 in year 2010, and total \$39 billion was spend on prison management in 40 states. Although [the follow-up study](https://www.vera.org/publications/price-of-prisons-2015-state-spending-trends/price-of-prisons-2015-state-spending-trends/price-of-prisons-2015-state-spending-trends-from-the-director) showed that the cost was decreased by \$232 million in 2015, it remains as a significant social cost. Also, In the article [Why Prison?: An Economic Critique](https://pdfs.semanticscholar.org/40d6/9f1fbd0cf0ba3799f660b6c069bfe97817c2.pdf) by Peter N. Salib, which claims that imprisonment is an incorrect way to punish criminals, mentions nonmonetary sanctions caused by imprisonment system destroys a part of social wealth.
 
-Penal Labour is very unique mixture of slavery and labor. In some sense, assigning specific works to prisoners and (적절히 보상하다) shows that penal labor is primarily a (작업?노동?). In another perspective, forcing a specific group of people to work against their complete will matches with property of slavery. As a result, many governments already had lots of (정치적, 도덕적 논의) regarding penal labour.
+As prisons generate huge costs, utilizing inmates as economic participants is an important factor to reduce the cost. Penal labor can reduce the cost by allocating inmates to works directly related to management of prisons. In another way, penal labor can be used to produce goods to be used outside the prison, which can indirectly contribute to an increase of social wealth. In some countries like France or Finland, prison can also make a contract with a private company, providing penal labor in turn of reasonable payment, being an win-win situation for both. In summary, penal labor can help maintaining the legal system stable in various ways.
 
-(각 국의 penal labour 역사 정리. 미국/프랑스/영국 대표로 넣고 우리나라랑 북한,중국 수용소 이야기)
-
-One of the most important discussion about (재소자의 인권). (재소자의 자유를 어디까지 통제할 수 있는가는 어려운 이슈이다.) (나의 결론은 합리적인 사법 시스템 내에서 감옥의 경제적, 사회적 비용을 감당하기 위해 재소자에게 노동을 강요하는 것은 가능하다는 것. 사회적 관점에서.)(프랑스에서 재소노동자가 파업한 것 언급.)(감옥의 경제적 비용을 감당하는 정도 까지만. 그 이상을 하고자 하면 자본주의적 원리 때문에 착취하게 되고, 이는 이중 처벌 혹은 인권 유린.)
-
-(rehabilitation 이야기도 들어가면 좋겠다.)(대부분의 재소자가 극형을 사는 것이 아님. 감옥의 목적이 단순히 격리가 아니라 재사회화라면, 사회 구성원으로서 필요한 직업 기술을 가르칠 기회를 주는 것은 좋은 판단.)(단, 미디어에서는 극단적 사례들만 많이 보도하기 때문에 대중의 동의를 얻기는 힘들 수 있을 것 같다.)
+Penal labor can work as a rehabilitative program for inmates. [According to the US Reentry Resource Center](https://csgjusticecenter.org/nrrc/facts-and-trends/#_ftn4), at least 95 percent of the inamtes are eventually released and return to their communities, and more than half of them fails to find jobs. Correction and rehabilitation is therefore an important social role of prisons. [In a Study from Florida State University](https://www.nationalcia.org/wp-content/uploads/Pride-Research-2005.pdf), participating in a vocational program increased the possibility of reeemployment after release by 42%. In this perspective, penal labor with suitable rehabilitative purpose can lead ways for inmates to become desirable social members.
 
 Classification of AI dataset
 ---
 
-As a labor, classifying AI dataset is one of the most repetitive and (지루한) work. However, because of it's necessity for recently rising technology, the classification is considered as an important task in many fields, from academic reseraches to ICT markets. (심지어는 classification을 위한 시장이 따로 마련되어 있을 정도이다.)
+Deep learning is the mainstream technology of the current AI academic community. In short, it is a methodology to "train" neural network models to produce predictions for specific purpose. To train the network, reseachers need a special dataset which is already tagged for a desired purpose. Because the precision is usuallt related to the effort invested in training, many researchers seek to increase quality and quantity of their dataset.
 
-(penal labor에 사용하기 좋은 작업임을 설명.) (기사에 언급되어있듯이 많은 지식이나 기술을 필요로 하지 않음. 문화적 배경만 필요.) (대기업이 아니라면 비싸게 구입하거나 연구자가 일일이 작업해야함. 손실이라고 생각함.) (아직 완전하게 개척되지 않은 시장이기 때문에, 더 많은 가능성이 있다.)
+As a result, there are new markets for producing and trading datasets. It's called 'micro-tasking' industry, because each small part of dataset becomes a task. One of the pioneers of this market is [Amazon Mechanical Turk](https://www.mturk.com/), a crowdsourcing platform for distributing data-related tasks to individuals. For researchers, MTurk produces meaningful dataset which can be readily used for their researches. For individual participants, Mturk is a good source of work that required almost no skill or knowledge. Simlar services such as [Clickworker](https://www.clickworker.com/) and [Toluna](https://www.toluna-group.com/) continues to expand the market.
+
+However, there are some controversial opinions on this micro-tasking market. Because of the nature of the task, the market only provides options for low-paid works which is very close to exploitation. [From the article about individual workers of MTurk](https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/), a worker who spends 30 hours per week gets average \$4 to \$5 per hour, and faces many problems caused by system defects. [A study by Kotaro Hara et al.](https://arxiv.org/abs/1712.05796) shows that median wage is about \$2 per hour, and only top 4% of them earns more than \$7.25 per hour. Another problem is that the workers are forced to remain on the platform because less-educated workers have no other options to earn money. In conclusion, current micro-tasking platform exploits both labor and time to find another job or develop job skills of individual workers.
 
 My Opinion
 ---
 
-(penal labor로 AI training을 시키는 것 자체에는 문제가 없다고 생각.) (위에서 사회적 비용을 감당하는 어쩌고 가져오기.) (노동 강도가 크지 않고, 적은 시간을 투자 가능.) (데이터셋을 나눠서 태깅하는 것도 가능하고, 장비도 크게 필요없기 때문에 오히려 penal labor에 딱 맞음.)
+In general, I agree with private tech company utilizing penal labor for training AI work. First of all, I think that penal labor makes a lot of contributions in and out of prison. As already mentioned, adequate labor can be assigned to inmates as punishment for crime, and in the same time, it can produce economic benefits to cover up social costs that they make. Especially, AI is a rising technology that future human society will largely depend upon. In this sense, participating in AI training work can be more socially beneficial than other types of penal labor.
 
-(AI 기술이 사회적인 발전에 큰 도움이 될 것이기 때문에, 많은 사회적 비용을 지출하게 하는 교도소에서 AI 기술의 발전에 기여하는 것은 의미가 있다.)
+Also, the original article mentions that the inmates would prefer the AI work, because it matches "the requirements of modern life" and work as "an oppotunity to have a job that can empower them." Although penal labor is compulsory, providing preferable options for inmates is desirable for both prison and inmates themselves.
 
-(재사회화의 기회가 적다는 점에는 동의.) (하지만 노동과 재사회화는 따로 분리되는 것이 바람직하지 않을까?)
+One point I'm worried about is that current micro-tasking industry exploits low-educated people as cheap sources of time-consuming labor. Even outside the prison, the market provides only cheap and inescapable jobs for normal people. The disadvantages would be worse for prison inmates, if their vocatinal program does not provide rehabilitation chance. While expanding the AI work into more prison, if work conditions and wages are not significantly improved compared to current market situation, inmates will suffer from difficulties in reemployment after release, or stuck in micro-tasking industry as a cheap labor source.
+
+For Vainu to continue their expansion of partnership, I think that overall conditions of the AI work should be improved. To prevent inmates to become vulnerable target of labor exploitation, rehabilitative actions should be provided in parallel. Ini specific, Vainu and other AI companies can provide rich source of computer science-related education for inmates. If Vainu and prison can agree on providing rehabilitation program related to computer science and AI technology, their partnership expansion will not only provide great opportunities for inmates, but also result in increase in social wealth.
+
+Overall, the case of Vainu and Finnish prison looked like a small social experiment. In ideal and experimental conditions, progressive ideas like training AI as penal labor can be easily executed and succeed. However, to apply them in a real-world situation, there are many other factors to consider. From this point, the experiment would become engineering. I hope Vainu and Finnish government can find good conclusion, which will set an example for penal labor system and AI tech market.
