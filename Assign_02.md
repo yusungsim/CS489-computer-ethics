@@ -29,12 +29,16 @@ Inmates in Finland are training AI as part of prison labor
 
 The article was about partnership between an AI company and Finnish Criminal Sanctions Agency, utilizing penal labor to tag local data which is used to train AI products. They arleady processed quite a lot of data, comparable to amount that average startup would required. Currently, the labor is only being held in two prisons, while the compnay seeks to expand their partnership.
 
-The partnership between tech company and prison labor is unimaginable in Korea. Prison is considered as closed and inflexible place, because popular image of the convict is highly dangerous and difficult to control. Also, considering that the word 'labor' is pretty biased in Korea, assigning such technological duty to prison inmates will (논란을 일으키다). I was also surprised when I read the article, getting know that the work in dataset is already done by significant amount.
+The partnership between tech company and prison is unimaginable in Korea. Prison is considered as closed and inflexible place, because prison imates are considered highly dangerous and difficult to control. Also, considering that the word 'labor' is pretty biased in Korea, assigning such technological duty to prison inmates will raise severe controversy. I was also surprised when I read the article, getting know that the work in dataset is already done by significant amount. In personal opinion, this is a strong proof that legal system and culture interact directly.
 
-In order to discuss about moral justifiability of the case, I must mention that the idea of penal labour raises importand moral issues. In addition, the (작업적 특성) of classifying AI training data should be considered. So I'd like to consider both issues before I make my opinion.
+In order to discuss about moral justifiability of the case, I must mention that the idea of penal labour raises importand moral issues. In addition, the work charateristic of classifying AI training data should be considered. So I'd like to consider both issues before I make my opinion.
 
 Penal Labour
 ---
+
+Penal labor is a type of forced labor as a penalty for criminals, and usually applied to prison inmates. Because of their similar nature, penal labor has been often compared and discussed together with slavery. In French African colonices, penal labors were used as mean of colony exploitation [until 1950s](lemonde.fr/idees/article/2019/04/10/le-travail-force-colonial-dans-l-empire-francais-doit-etre-reconnu-comme-un-crime-contre-l-humanite_5448136_3232.html). In the United States, [The 13th Amendment](https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution) explicitly mentions that penal labor is not slavery, but is punishment for a crime. For a nation that is deeply related with abolition of slavery and civil rights movement, it is natural for legislators to precisly limit the range of penal labor to protect inmates' human rights. The fact that products of the penal labor is only used for government needs shows that US government reduces the likelihood of exploiting inmates for taking economic advantage.
+
+Penal labor should also be treates as a kind of labor. As a form of labor that produces economical or social benefits, penal labor can effectively pay for the economic and social costs of prison. 
 
 Penal Labour is very unique mixture of slavery and labor. In some sense, assigning specific works to prisoners and (적절히 보상하다) shows that penal labor is primarily a (작업?노동?). In another perspective, forcing a specific group of people to work against their complete will matches with property of slavery. As a result, many governments already had lots of (정치적, 도덕적 논의) regarding penal labour.
 
